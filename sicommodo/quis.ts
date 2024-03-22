@@ -1,0 +1,1 @@
+appendChild(node: Node): Node;
